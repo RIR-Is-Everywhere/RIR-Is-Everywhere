@@ -11,16 +11,16 @@
 I am a dedicated **MERN Stack Developer** from Bangladesh. I focus on building scalable, responsive, and user-centric web applications. I love coding and constantly exploring new technologies to improve my workflow.
 
 
--  I’m currently working on **MERN Stack Projects**
--  I’m currently learning **Next.js & Redux**
--  Fun fact: **I love turning coffee into clean code!**
+-  Machine Learning & AI: Predictive models, computer vision, **NLP, deep learning**.
+-  Full-Stack Development: **React, Next.js, Node.js, REST APIs**, and responsive web apps.
+-  2D Game Development: 2D Game Development: Python, C++, Unity game mechanics, level design, and interactive experiences.
 -  Reach me at: **robyetulprowork1234@gmail.com**
 
--🔹 Machine Learning & AI: Predictive models, computer vision, **NLP, deep learning**.
--🔹 Full-Stack Development: **React, Next.js, Node.js, REST APIs**, and responsive web apps.
--🔹 2D Game Development: 2D Game Development: Python, C++, Unity game mechanics, level design, and interactive experiences.
--🔹 Automation & Tools: Creating practical software and AI tools to simplify everyday tasks.
--🔹 Goal: Turn ideas into real, usable products and games with clean code and scalable architecture.
+- Machine Learning & AI: Predictive models, computer vision, **NLP, deep learning**.
+- Full-Stack Development: **React, Next.js, Node.js, REST APIs**, and responsive web apps.
+- 2D Game Development: 2D Game Development: Python, C++, Unity game mechanics, level design, and interactive experiences.
+- Automation & Tools: Creating practical software and AI tools to simplify everyday tasks.
+- Goal: Turn ideas into real, usable products and games with clean code and scalable architecture.
 
 ---
 
