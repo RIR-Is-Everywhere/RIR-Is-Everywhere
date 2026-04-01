@@ -1,105 +1,74 @@
-<!-- ================== -->
-<!--     HEADER START   -->
-<!-- ================== -->
-
-<div align="center">
-
-<h1>👋 Hey there, I'm Robyetul Islam</h1>
-<p>
-  Full‑Stack & AI Developer 🚀 | Building real‑world apps & smart tools 🔥
-</p>
-
-<!-- Portfolio Link -->
-<a href="https://robyetulislam.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio‑Live‑brightgreen?style=for-the-badge" alt="Portfolio">
-</a>
-
-</div>
+# 👋 Hi, I'm Robyetul Islam
+### Full Stack Web Developer (MERN Stack)
 
 ---
 
-<!-- ================== -->
-<!--     ABOUT ME       -->
-<!-- ================== -->
+### 💫 About Me:
+I'm a passionate Full Stack Web Developer from Bangladesh. I specialize in building interactive, user-friendly, and high-performance web applications using the MERN stack. I love turning complex problems into simple, beautiful, and intuitive designs.
 
-### 💡 About Me
-
-I'm **RIR — Robyetul Islam**, a passionate developer from **Bangladesh 🇧🇩** focusing on:
-- 🔹 Python & Machine Learning
-- 🔹 Web Development (React, Next.js)
-- 🔹 Product‑oriented tools & automation
-- 🔹 Dynamic real‑world solutions 📦
-
-My mission?  
-**Build tools that make everyday life easier through code.**
+- 🔭 I’m currently working on **Advanced E-commerce Platforms**
+- 🌱 I’m currently learning **Next.js & TypeScript**
+- 👯 I’m looking to collaborate on **Open Source MERN Projects**
+- 💬 Ask me about **React, Node.js, or Web Optimization**
+- 📫 How to reach me: **robyetulislam@gmail.com**
 
 ---
 
-<!-- ================== -->
-<!--     SKILLS         -->
-<!-- ================== -->
-
-### 🛠️ Tech Stack
-
+### 🌐 Socials:
 <p align="left">
-  <img src="https://img.shields.io/badge/Python‑3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Java‑ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/React‑20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Next.js‑000000?style=for-the-badge&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow‑FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch‑EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/Git‑F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker‑2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<a href="https://linkedin.com/in/robyetul-islam" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="robyetul-islam" /></a>
+<a href="https://instagram.com/robyetul_islam" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="robyetul_islam" /></a>
+<a href="https://facebook.com/robyetul.islam.35" target="blank"><img align="center" src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="robyetul.islam.35" /></a>
 </p>
 
 ---
 
-<!-- ================== -->
-<!--   GITHUB STATS      -->
-<!-- ================== -->
+### 💻 Tech Stack:
 
-<div align="center">
+**Frontend:**
+<p align="left"> 
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+</p>
 
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=RIR-Is-Everywhere&show_icons=true&theme=radical&count_private=true" alt="RIR's GitHub Stats"/>
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIR-Is-Everywhere&layout=compact&theme=radical" alt="Top Languages"/>
+**Backend & Database:**
+<p align="left"> 
+<img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+</p>
 
-</div>
-
----
-
-<!-- ================== -->
-<!--   FEATURED PROJECTS -->
-<!-- ================== -->
-
-### 🌟 Projects I'm Proud Of
-
-Here are some of my key repositories you should check out:
-
-🧪 **ML & Data**
-- 🔹 `Linear_Regression.` — Diabetes Prediction Using Linear Regression  
-- 🔹 `KNN_from_Scratch` — Custom KNN Classifier (flowers & text)  
-- 🔹 `ML-project-Real-And-fake-Detection` — Real vs Fake Image Detector
-
-💼 **Tools & Bots**
-- 🤖 `RIR_bot_new` — My Discord Bot Project
-
-💡 *(Pin these in your GitHub profile for best visibility!)*
-
----
-
-<!-- ================== -->
-<!--   SOCIAL LINKS     -->
-<!-- ================== -->
-
-### 📫 Let’s Connect
-
-<p align="left">
-  <a href="https://twitter.com/robyetulislam"><img src="https://img.shields.io/badge/Twitter‑1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/robyetul-islam"><img src="https://img.shields.io/badge/LinkedIn‑0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email‑D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+**Tools:**
+<p align="left"> 
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
+<img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white" />
 </p>
 
 ---
 
-> **Thanks for visiting!** 👋  
-> Always learning, building, and sharing 💙
+### 📊 GitHub Stats:
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=robyetul-islam&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robyetul-islam&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=robyetul-islam&theme=radical&hide_border=true" />
+</p>
+
+---
+
+### ⚡ Random Dev Quote:
+![Quote](https://quotes-github-readme.vercel.app/generate?type=horizontal&theme=radical)
+
+---
+<p align="center">
+  Generated with ❤️ from Robyetul's Portfolio
+</p>
