@@ -1,6 +1,6 @@
 <!-- 🔥 Animated Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff416c,100:1e3c72&height=220&section=header&text=Robyetul%20Islam&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:5c0000,50:ff1a1a,100:000000&height=280&section=header&text=Robyetul%20Islam&fontSize=55&fontColor=ffffff&animation=blinking&fontAlignY=38&desc=Machine%20Learning%20Engineer%20🚀&descAlignY=60&descSize=20"/>
 </p>
 
 <!-- ⌨️ Typing Animation -->
