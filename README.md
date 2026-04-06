@@ -27,12 +27,6 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,mongodb,tensorflow,git,github" />
 </p>
 
-<!-- 📊 GitHub Stats Animation -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&animate=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
 <!-- 🔥 Snake Animation -->
 <p align="center">
   <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg"/>
