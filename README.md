@@ -1,8 +1,41 @@
-# 👋 Hi, I'm Robyetul Islam
-### Software and Machine Learning Engineers 
+<!-- 🔥 Animated Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff416c,100:1e3c72&height=220&section=header&text=Robyetul%20Islam&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=RIR-Is-Everywhere&label=Profile%20views&color=0e75b6&style=flat" alt="RIR-Is-Everywhere" />
+<!-- ⌨️ Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Software+Quality+Assurance;Machine+Learning+Engineer&center=true&width=600&height=50&color=00F7FF&vCenter=true&size=22">
+</p>
+
+<!-- 🧠 Animated Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216655846-6c8f1f64-6d6d-4b52-bb8d-66f4b0d3e9c6.gif" width="100%">
+</p>
+
+<!-- ⚡ About Me -->
+<h3 align="center">🚀 Passionate Developer | Building Smart Systems</h3>
+
+<p align="center">
+💻 Software Engineer <br>
+🧪 Software Quality Assurance <br>
+🤖 Machine Learning Engineer
+</p>
+
+<!-- 🔥 Animated Tech Icons -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,mongodb,tensorflow,git,github" />
+</p>
+
+<!-- 📊 GitHub Stats Animation -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&animate=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<!-- 🔥 Snake Animation -->
+<p align="center">
+  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
